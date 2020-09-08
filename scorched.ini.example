@@ -1,0 +1,15 @@
+[DEFAULT]
+
+[twilio]
+account_sid= # get this from your twilio account
+auth_token= # get this from your twilio account
+from_number=+14155551212 # replace with your twilio number
+to_number=+14155556789 # replace with your target number
+
+[api.waqi.info]
+city=berkeley # add your city here. not sure how waqi disambiguates.
+token= # get free token from waqi
+
+[api.weather.gov]
+latlong=1.23,-1.23 # replace with your latitude and longitude
+# you can look it up with your address at e.g. https://www.latlong.net/convert-address-to-lat-long.html

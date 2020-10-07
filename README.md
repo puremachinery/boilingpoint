@@ -1,1 +1,1 @@
-# boilingpoint
+It's intermittently hot and smoky in the Bay Area. The heat makes me want the windows open, especially once the temperature is dropping to help cool the place down, while smoke incentivizes keeping them closed. So here's a quick script that checks the AQI and temperature patterns and sends a text if conditions indicate the windows should be open, mainly because I was curious how doable it was with public APIs. Very basic, as I've solved the problem by temporarily leaving the Bay area instead.
